@@ -1,0 +1,34 @@
+{
+  "Fisch_Roblox_Graphics_Settings": {
+    "recommended_quality": 3,
+    "optimization_tips": {
+      "graphics_quality": "Set to 3-5 (lower = better performance)",
+      "shadows": "Disable for better FPS",
+      "visual_effects": "Reduce or disable",
+      "render_distance": "Medium or Low",
+      "anti_aliasing": "Disable or Low",
+      "vsync": "Disable if possible",
+      "brightness": "Increase if visibility is an issue",
+      "catch_flags": "Disable for better FPS (toggle as needed)",
+      "poi_headers": "Enable for navigation (disable if FPS drops)"
+    },
+    "poco_x8_pro_max_specific": {
+      "game_turbo": "Enable WildBoost mode",
+      "fps_mode": "Set to 90 FPS if available",
+      "touch_response": "Enable 24x super resolution touch",
+      "game_hdr": "Enable for better contrast in dark scenes",
+      "super_resolution": "Enable 1.5K if performance allows"
+    },
+    "diagnostic": {
+      "fps_check": "Press Shift + F3 in Roblox to check FPS",
+      "ping_check": "Use Shift + F3 to check network latency",
+      "thermal_throttling": "Monitor device temperature during gameplay"
+    },
+    "additional_fixes": {
+      "close_background_apps": "Close unused apps before gaming",
+      "network_optimization": "Use 5GHz WiFi or mobile data for better ping",
+      "server_region": "Rejoin to get closer server if ping is high",
+      "game_updates": "Keep Roblox updated for performance patches"
+    }
+  }
+}

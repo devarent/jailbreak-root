@@ -1,0 +1,183 @@
+===============================================================================
+POCO X8 PRO MAX - FISCH/ROBLOX GAMING OPTIMIZATION GUIDE
+===============================================================================
+
+PROBLEM: Low FPS / Lag in Fisch (Roblox) on Poco X8 Pro Max
+SOLUTION: System-level optimization + In-game graphics settings
+
+===============================================================================
+FILE DESCRIPTIONS
+===============================================================================
+
+1. optimize_poco_gaming.bat
+   - PC-based optimization script using ADB
+   - Applies system-level performance settings
+   - Requires: USB connection, USB Debugging enabled
+
+2. optimize_poco_gaming_shizuku.sh  
+   - Android-based optimization script
+   - Runs via Shizuku app (no PC needed)
+   - Requires: Shizuku app installed with permissions
+
+3. ROBLOX_GRAPHICS_FIX.json
+   - Configuration reference for optimal settings
+   - Contains recommended graphics settings for Fisch/Roblox
+
+===============================================================================
+INSTALLATION INSTRUCTIONS
+===============================================================================
+
+METHOD 1: PC INSTALLATION (Recommended)
+----------------------------------------
+
+1. PREPARATION:
+   - Enable USB Debugging on your Poco X8 Pro Max:
+     * Go to Settings > About Phone > Tap MIUI Version 7 times
+     * Go to Settings > Additional Settings > Developer Options
+     * Enable "USB Debugging"
+   
+   - Connect phone to PC via USB cable
+   - Allow USB debugging authorization on phone when prompted
+
+2. RUN THE SCRIPT:
+   - Double-click: optimize_poco_gaming.bat
+   - Follow the on-screen instructions
+   - Wait for optimization to complete
+
+3. POST-INSTALLATION:
+   - Open Game Turbo app on your phone
+   - Add Roblox to Game Turbo
+   - Enable WildBoost mode
+   - Set FPS mode to 90 FPS (if available)
+   - Enable Touch Response Boost
+
+METHOD 2: ANDROID INSTALLATION (Shizuku)
+-----------------------------------------
+
+1. PREPARATION:
+   - Install Shizuku app from Play Store or GitHub
+   - Enable Shizuku service (follow app instructions)
+   - Grant necessary permissions to Shizuku
+
+2. RUN THE SCRIPT:
+   - Copy optimize_poco_gaming_shizuku.sh to your phone
+   - Open Shizuku app
+   - Use the built-in terminal/rish to run the script
+   - Or use a terminal emulator app with Shizuku support
+
+3. POST-INSTALLATION:
+   - Same as Method 1, step 3
+
+===============================================================================
+IN-GAME SETTINGS FOR FISCH/ROBLOX
+===============================================================================
+
+OPEN ROBLOX SETTINGS DURING GAMEPLAY:
+
+1. GRAPHICS QUALITY: Set to 3-5 (lower number = better performance)
+2. SHADOWS: Disable
+3. VISUAL EFFECTS: Reduce or disable
+4. RENDER DISTANCE: Medium or Low
+5. ANTI-ALIASING: Disable or Low
+6. VSYNC: Disable if possible
+
+FISCH-SPECIFIC SETTINGS:
+- Higher Brightness: On (helps visibility)
+- Higher Saturation: On (optional, can affect performance)
+- Enable Catch Flags: Off for better FPS (toggle when needed)
+- POI Headers: On for navigation (Off if FPS drops)
+
+NEW FISCH SETTINGS (Brine Storm Update):
+- Performance mode is now replaced by individual toggles
+- Disable: Clouds, Shadows, VFX visibility for best performance
+- Enable individual features as needed for visual quality
+
+===============================================================================
+DIAGNOSTICS
+===============================================================================
+
+CHECK FPS AND PING:
+- Press Shift + F3 in Roblox to open diagnostics overlay
+- Monitor your frame rate and network latency
+- Use this to verify improvements
+
+THERMAL MONITORING:
+- Poco X8 Pro Max has excellent cooling (5800mm² 3D IceLoop)
+- Monitor temperature during extended gaming sessions
+- If device gets hot, reduce graphics settings temporarily
+
+===============================================================================
+TROUBLESHOOTING
+===============================================================================
+
+STILL EXPERIENCING LAG?
+1. Close all background apps before gaming
+2. Use 5GHz WiFi instead of 2.4GHz
+3. Try mobile data if WiFi is congested
+4. Rejoin the game to get a closer server region
+5. Consider using a VPN to connect to a closer Roblox server
+
+GAME CRASHES?
+1. Ensure Roblox is updated to latest version
+2. Clear Roblox cache: Settings > Apps > Roblox > Clear Cache
+3. Disable Game HDR if performance issues persist
+4. Reduce graphics quality further
+
+SCRIPT FAILS TO RUN?
+1. Ensure USB Debugging is properly enabled
+2. Try different USB cable (some cables only charge)
+3. Reboot both PC and phone
+4. Check that ADB drivers are installed on PC
+
+===============================================================================
+POCO X8 PRO MAX SPECIFIC FEATURES
+===============================================================================
+
+HARDWARE CAPABILITIES:
+- Processor: MediaTek Dimensity 9500s (3nm)
+- GPU: Immortalis-G925 MC12 with ray tracing
+- RAM: 12GB LPDDR5X Ultra
+- Storage: UFS 4.1
+- Display: Up to 120Hz refresh rate
+- Cooling: 5800mm² 3D IceLoop vapor chamber
+
+WILDBOOST FEATURES:
+- 1.5K Super Resolution: Enhances visual clarity
+- 90 FPS Frame Rate Mode: Smoother gameplay
+- 24x Super Resolution Touch: Better touch response
+- Game HDR: Improved contrast in dark scenes
+
+Note: Enabling all WildBoost features may increase battery drain and device temperature.
+Enable based on your performance vs battery preference.
+
+===============================================================================
+EXPECTED RESULTS
+===============================================================================
+
+AFTER OPTIMIZATION:
+- System animations disabled for snappier response
+- GPU set to performance mode
+- Refresh rate maximized to 120Hz
+- Game Turbo activated with WildBoost
+- Touch response optimized
+
+TYPICAL IMPROVEMENTS:
+- 20-40% FPS increase in Fisch/Roblox
+- Reduced frame drops during intensive scenes
+- Smoother gameplay experience
+- Better touch response
+
+===============================================================================
+SUPPORT AND UPDATES
+===============================================================================
+
+For issues or questions:
+- Check ROBLOX_GRAPHICS_FIX.json for reference settings
+- Use Shift + F3 in Roblox to diagnose performance
+- Ensure your Poco X8 Pro Max is running latest HyperOS updates
+- Keep Roblox app updated for latest performance patches
+
+===============================================================================
+Generated for Poco X8 Pro Max optimization
+Fisch/Roblox Performance Fix
+===============================================================================
