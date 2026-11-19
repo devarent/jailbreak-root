@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# jailbreak-root
+
+<sub>Eksperimen modifikasi dan optimalisasi perangkat Android.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | jailbreak-root |
+| Primary language | Batchfile |
+| Topics | android, batchfile, experiments, modding, optimization, root |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+jailbreak-root is a hands-on repository focused on: Eksperimen modifikasi dan optimalisasi perangkat Android.. Primary language: Batchfile. Topics: android, batchfile, experiments, modding, optimization, root. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
